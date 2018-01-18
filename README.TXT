@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FModSecurity.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FModSecurity?ref=badge_shield)
+
 ModSecurity for Apache 2.x, http://www.modsecurity.org/
 Copyright (c) 2004-2013 Trustwave Holdings, Inc. (http://www.trustwave.com/)
 
@@ -108,3 +110,7 @@ clients identified by the Trustwave SpiderLabs Distributed Web Honeypots
 5. Malware Detection capabilities which prevent your web site from
 distributing malicious code to clients.
 ##############################################
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FModSecurity.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FModSecurity?ref=badge_large)
